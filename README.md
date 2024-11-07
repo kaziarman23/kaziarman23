@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="https://signal.me/#eu/HqM9mdD1Bk6PdKrYy9QPUbXA5nFS90nbcpVUQ8dEFPPwf2wbAO5PZqVDmcR9mSwI" target="_blank">
+  <a href="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="52" height="40" alt="signal logo"  />
   </a>
   <a href="kaziarman@proton.me" target="_blank">
