@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">I'm Kazi Arman Nihad</h1>
+<h1 align="center">I'm Kazi Arman</h1>
 
 ###
 
