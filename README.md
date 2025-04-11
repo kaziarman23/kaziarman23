@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ I'm a web developer<br>🌏 Live in Bangladesh<br>⌨️ Currectly learing MySQL Database<br>💻 Trying to learn more advance technology's</p>
+<p align="left">🖥️ I'm a web developer<br>🌏 Live in Bangladesh<br>⌨️ Currectly learing MySQL Database<br>💻 Trying to learn more advance Technology's</p>
 
 ###
 
